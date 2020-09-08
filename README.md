@@ -45,6 +45,20 @@ $ python3 yolo.py -i "images/1.jpg" -y "yolo-coco"
 
 [Dev Link](https://dev.to/dhrubajyoti89/object-specifier-yolo-coco-107b)
 
+![](https://github.com/dhrubajyoti89/obj-specifier/blob/master/Readme_images/ss.png)
 
-<p align="center"><img src="https://github.com/dhrubajyoti89/obj-specifier/Readme_images/ss.png" width="700" height="400"></p>
+Feel free to mail me for any doubts/query 
+:email: dhruba.chakraborty2019@gift.edu.in
 
+## Contribution
+Feel free to **file a new issue** with a respective title and description on the the Object Specifier(https://github.com/dhrubajyoti89/obj-specifier/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
+
+## Owner
+[Dhrubajyoti Chakraborty](https://github.com/dhrubajyoti89)
+
+## :+1: Credits
+* [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
+* [https://www.kaggle.com](https://www.kaggle.com)
+
+## License
+MIT © [Dhrubajyoti Chakraborty](https://github.com/dhrubajyoti89/obj-specifier/blob/master/LICENSE)
