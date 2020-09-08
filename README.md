@@ -1,15 +1,15 @@
 <h1 align="center">Object Specifier</h1>
 
-## :file_folder: Dataset
+## : Dataset
 The dataset used can be downloaded here - [Click to Download](https://www.kaggle.com/valentynsichkar/yolo-coco-data)
 
 This is ready to use data with weights and configuration along with coco names to detect objects with YOLO algorithm.
 
-## :key: Prerequisites
+## : Prerequisites
 
 All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here]()
 
-## 🚀&nbsp; Installation
+## : Installation
 1. Clone the repo
 ```
 $ git clone https://github.com/dhrubajyoti89/obj-specifier.git
@@ -25,7 +25,7 @@ $ mkvirtualenv test
 $ pip3 install -r requirements.txt
 ```
 
-## :bulb: Working
+## : Working
 
 1. Open terminal. Go into the cloned project directory folder and type the following command:
 ```
@@ -37,7 +37,7 @@ $ python3 yolo.py --dataset dataset
 $ python3 yolo.py -i "images/1.jpg" -y "yolo-coco"
 ```
 
-## :key: Results
+## : Results
 
 #### Our model gave 81% accuracy for Object Detection after training 
 
