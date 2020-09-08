@@ -45,3 +45,9 @@ $ python3 yolo.py -i "images/1.jpg" -y "yolo-coco"
 
 #### We got the following accuracy/loss training curve plot
 ![](https://github.com/dhrubajyoti89/obj-specifier/)
+
+
+<p align="center">
+  <img src="Readme_images/ss.png">
+</p>
+<p align="center">Upload Images</p>
