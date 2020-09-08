@@ -41,9 +41,10 @@ $ python3 yolo.py -i "images/1.jpg" -y "yolo-coco"
 
 #### Our model gave 81% accuracy for Object Detection after training 
 
-![](https://github.com/dhrubajyoti89/obj-specifier/ss.png)
+## Project Demo
 
-<p align="center">
-  <img src="Readme_images/ss.png">
-</p>
+[Dev Link](https://dev.to/dhrubajyoti89/object-specifier-yolo-coco-107b)
+
+
+<p align="center"><img src="https://github.com/dhrubajyoti89/obj-specifier/Readme_images/ss.png" width="700" height="400"></p>
 
