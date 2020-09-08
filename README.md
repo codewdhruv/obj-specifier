@@ -56,7 +56,7 @@ Feel free to **file a new issue** with a respective title and description on the
 ## Owner
 [Dhrubajyoti Chakraborty](https://github.com/dhrubajyoti89)
 
-## :+1: Credits
+## Credits
 * [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
 * [https://www.kaggle.com](https://www.kaggle.com)
 
